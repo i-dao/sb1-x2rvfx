@@ -1,0 +1,82 @@
+{
+  "menu": {
+    "dashboard": "Dashboard",
+    "wallet": "Wallet",
+    "ibot": "i-Bot",
+    "imoney": "Banking",
+    "itax": "Tax Center",
+    "ibusiness": "Business",
+    "profile": "Profile"
+  },
+  "common": {
+    "send": "Send",
+    "receive": "Receive",
+    "swap": "Swap",
+    "save": "Save",
+    "cancel": "Cancel",
+    "logout": "Sign Out",
+    "submit": "Submit",
+    "continue": "Continue",
+    "back": "Back"
+  },
+  "profile": {
+    "title": "Profile Settings",
+    "edit": "Edit Profile",
+    "personal": {
+      "title": "Personal Information",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "address": "Address",
+      "city": "City",
+      "country": "Country",
+      "birthdate": "Date of Birth"
+    },
+    "company": {
+      "title": "Company Information",
+      "name": "Company Name",
+      "address": "Company Address",
+      "registrationNumber": "Registration Number",
+      "country": "Company Country"
+    }
+  },
+  "wallet": {
+    "balance": "Balance",
+    "totalBalance": "Total Portfolio Value",
+    "cryptoAssets": "Crypto Assets",
+    "fiatBalance": "Fiat Balance",
+    "send": {
+      "title": "Send Assets",
+      "selectToken": "Select Asset",
+      "amount": "Amount to Send",
+      "recipientAddress": "Recipient Address",
+      "warning": "Please verify the recipient address. Transactions cannot be reversed.",
+      "reviewTransaction": "Review Transfer"
+    },
+    "receive": {
+      "title": "Receive Assets",
+      "walletAddress": "Your Wallet Address",
+      "addressCopied": "Address copied to clipboard",
+      "supportedTokens": {
+        "title": "Supported Assets",
+        "tokens": [
+          "USDC (Polygon)",
+          "USDT (Polygon)"
+        ]
+      }
+    },
+    "swap": {
+      "title": "Exchange Assets",
+      "from": "From Asset",
+      "to": "To Asset (Estimated)",
+      "rate": "Exchange Rate",
+      "networkFee": "Network Fee",
+      "reviewSwap": "Review Exchange"
+    }
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "sv": "Svenska"
+  }
+}
